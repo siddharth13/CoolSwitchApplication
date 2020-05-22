@@ -1,0 +1,3 @@
+rootProject.name='CoolSwitchApplication'
+include ':app'
+include ':coolswitch'
